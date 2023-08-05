@@ -4,4 +4,4 @@
 * favorite language: JavaScript :desktop_computer:
 * 2nd favorite language: Python :snake:
 * how to reach me: shawn.stensberg@gmail.com :email:
-* my linkedin: https://www.linkedin.com/in/shawnstensberg/ :globe_with_meridians:
+* my linkedin: https://www.linkedin.com/in/sstensberg/ :globe_with_meridians:
